@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+
+# Outputs (generated)
+outputs/
+!outputs/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp files
+temp_*.jpg
